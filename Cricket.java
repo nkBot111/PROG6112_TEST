@@ -1,4 +1,3 @@
-// Abstract class
 abstract class Cricket implements ICricket {
     protected String batsmanName;
     protected String stadiumName;
